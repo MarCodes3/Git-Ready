@@ -17,6 +17,7 @@ public class ArrayClassDemo {
         System.out.println("The sum of every value in the first column of this 2D array is: " + a1.getColumnTotal(arr, 0));
         System.out.println("The sum of every value in the second column of this 2D array is: " + a1.getColumnTotal(arr, 1));
         System.out.println("The sum of every value in the third column of this 2D array is: " + a1.getColumnTotal(arr, 2));
+        System.out.println("Separate Sums and values");
         System.out.println("The highest value in the first row of this 2D array is: " + a1.getHighestInRow(arr, 0));
         System.out.println("The highest value in the second row of this 2D array is: " + a1.getHighestInRow(arr, 1));
         System.out.println("The highest value in the third row of this 2D array is: " + a1.getHighestInRow(arr, 2));
